@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://subb.opsmanage.net/sub?" }],
+        backendOptions: [{ value: "https://sub-web-b6e.pages.dev/sub?" }],
         remoteConfig: [
           {
             label: "universal",
